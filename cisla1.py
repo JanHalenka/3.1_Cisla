@@ -3,4 +3,4 @@ while True:
     if n > 0:
         break
 
-
+print("Zadane cislo je", n)
