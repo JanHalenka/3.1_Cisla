@@ -5,7 +5,7 @@ while True:
         break
 
 # Vypise zadane cislo
-print('Zadane cislo je ' + (str)(n))
+print("Zadane cislo je " + (str)(n))
 
 # Secte prirozena cisla od 1 do n (zapocitava i realnou 0, coz zde ovsem nevadi)
 soucet = 0
